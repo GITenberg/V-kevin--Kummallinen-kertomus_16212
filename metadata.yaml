@@ -27,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Herman_Bang
     - http://da.wikipedia.org/wiki/Herman_Bang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16212#V-kevin--Kummallinen-kertomus
 gutenberg_issued: '2005-07-05'
 gutenberg_type: Text
 identifiers:
