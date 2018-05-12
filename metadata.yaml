@@ -1,0 +1,42 @@
+_repo: V-kevin--Kummallinen-kertomus_16212
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Soini, Lauri
+    aliases:
+    - Soininen, L.
+    - Ahava, Juho
+    - Sauramo, Lauri
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia: https://fi.wikipedia.org/wiki/Lauri_Soini
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bang, Herman
+    alias: Bang, Herman Joachim
+    birthdate: 1857
+    deathdate: 1912
+    gutenberg_agent_id: '3638'
+    url: http://www.gutenberg.org/2009/agents/3638
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Herman_Bang
+    - http://da.wikipedia.org/wiki/Herman_Bang
+description: ''
+gutenberg_issued: '2005-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16212'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish fiction -- Translations into Finnish'
+- !lcc 'PT'
+title: 'Väkevin: Kummallinen kertomus'
+url: http://www.gutenberg.org/ebooks/16212
